@@ -1,5 +1,6 @@
 # Live demo
-Mern-Place-Finder(https://mernplacefinder.netlify.app/)
+<a href="https://mernplacefinder.netlify.app/">Place-Finder</a>
+
 
 
 # Getting Started with Create React App
